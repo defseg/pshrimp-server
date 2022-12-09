@@ -18,7 +18,7 @@
   "homepage": "https://github.com/defseg/pshrimp#readme",
   "dependencies": {
     "ejs": "^2.5.5",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "pg": "^7.9.0"
   },
   "engines": {
